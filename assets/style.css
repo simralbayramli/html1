@@ -1,7 +1,7 @@
 *{
     margin: 0;
 }
-.conteynr{
+.container{
     width: 100%;
     height:100vh;
     
@@ -41,18 +41,18 @@
 }
 .section-top img{
     width: 100%;
-    height: 70%;
+    height: 60%;
     background-position: center;
     
     background-repeat: no-repeat;
 }
-.basliq{
+.title{
     display: flex;
     
     justify-content: center;
     align-items: center;
 }
-.basliq h2{
+.title h2{
     font-weight: 400;
 }
 .nav{
@@ -80,20 +80,20 @@
     width: 50%;
     height: 25%;
 }
-.qiymet{
+.price{
     
     display: flex;
     justify-content: center;
     gap: 30px;
     align-items: center;
 }
-.gedis-haqqi{
+.fare{
     
     padding: 15px 30px;
     
     border: 1px solid black;
 }
-.gedis-haqqi h3{
+.fare h3{
     display: flex;
     justify-content: center;
     align-items: center;
